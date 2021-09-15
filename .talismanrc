@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: 05_resource_attributes/.terraform.lock.hcl
+  checksum: 3a2650a0db5a0aebd7e34de0398315101dd6772778268b0a28f8b4c98eb1649d
 - filename: 06_time_static_with_resource_attributes/.terraform.lock.hcl
   checksum: fd41fee7bdc1135adddff6c6760d671c6675d388fcbb4d6994bd0fcd13e06405
 - filename: tf-with-variables/.terraform.lock.hcl

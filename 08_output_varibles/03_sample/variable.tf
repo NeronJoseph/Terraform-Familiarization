@@ -1,12 +1,12 @@
 
 variable "prefix" {
-  default = "Mrs"	
+  default = "Mrs"
 }
 
 variable "separator" {
-	default = "."
+  default = "."
 }
 
 variable "length" {
-	default = "1"
+  default = "1"
 }

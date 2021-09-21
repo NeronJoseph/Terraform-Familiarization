@@ -1,17 +1,17 @@
 variable "filename" {
-    default = "/home/neron/Tutorials/Terraform/Terraform-Samples/TestFolder/pets.txt"
+  default = "/home/neron/Tutorials/Terraform/Terraform-Samples/TestFolder/pets.txt"
 }
 
 variable "prefix" {
-    default = ["Mr", "Mrs", "Sir"]
-    type = list
-    description = "List with index"
+  default     = ["Mr", "Mrs", "Sir"]
+  type        = list(any)
+  description = "List with index"
 }
 
 variable "separator" {
-    default = "."
+  default = "."
 }
 
 variable "length" {
-    default = "1"
+  default = "1"
 }

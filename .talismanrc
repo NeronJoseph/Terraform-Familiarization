@@ -1,13 +1,15 @@
 fileignoreconfig:
+- filename: .gitignore
+  checksum: c365d5f7a4494706b5a5d7fa0f965c7fce6349be595ed19c1494247137847b09
 - filename: 05_resource_attributes/.terraform.lock.hcl
   checksum: 3a2650a0db5a0aebd7e34de0398315101dd6772778268b0a28f8b4c98eb1649d
 - filename: 06_time_static_with_resource_attributes/.terraform.lock.hcl
   checksum: fd41fee7bdc1135adddff6c6760d671c6675d388fcbb4d6994bd0fcd13e06405
 - filename: 07_resource_dependency/02_implicit_dependency_sample/.terraform.lock.hcl
   checksum: 3ad8ed84ed4461e9f030424627c5e5a657527db2df27cdc5dcc8ee03f988a134
-- filename: tf-with-variables/.terraform.lock.hcl
-  checksum: 72bfaa6ec9184390f6047ccb44014aede6cee0421c22d975a233f2872b478f2a
 - filename: 08_output_varibles/01_sample/.terraform.lock.hcl
   checksum: 37e753a945ea2e7e213443bef6ad825525d54f7968a1208f1391f1698823e8e4
 - filename: 08_output_varibles/03_sample/.terraform.lock.hcl
   checksum: 21b02f85e1eab60a9035ddc39438958b7f33c1bde9673b15e9ecdc5d7086b81d
+- filename: tf-with-variables/.terraform.lock.hcl
+  checksum: 72bfaa6ec9184390f6047ccb44014aede6cee0421c22d975a233f2872b478f2a

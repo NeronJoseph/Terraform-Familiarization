@@ -11,5 +11,7 @@ fileignoreconfig:
   checksum: 37e753a945ea2e7e213443bef6ad825525d54f7968a1208f1391f1698823e8e4
 - filename: 08_output_varibles/03_sample/.terraform.lock.hcl
   checksum: 21b02f85e1eab60a9035ddc39438958b7f33c1bde9673b15e9ecdc5d7086b81d
+- filename: 14_aws-s3-with-terraform/01_s3-terraform-sample/main.tf
+  checksum: 3f3b2c5f76accfc26703b3caa246bbf3bcb1fe1074d257d02028e3ac562e20ec
 - filename: tf-with-variables/.terraform.lock.hcl
   checksum: 72bfaa6ec9184390f6047ccb44014aede6cee0421c22d975a233f2872b478f2a
